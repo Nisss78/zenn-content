@@ -3,7 +3,7 @@ title: "テスト記事：マークダウンの基本"
 emoji: "⚡"
 type: "tech"
 topics: ['テスト']
-published: false
+published: true
 ---
 
 これは複数プラットフォームへの投稿テスト用記事です。
