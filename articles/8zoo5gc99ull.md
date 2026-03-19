@@ -2,17 +2,9 @@
 title: "OpenClawのスラッシュコマンド完全ガイド"
 emoji: "💻"
 type: "tech"
-topics: []
+topics: ["openclaw", "ai", "cli", "automation"]
 published: true
 ---
-
----
-title: "OpenClawのスラッシュコマンド完全ガイド"
-topics: ["openclaw", "ai", "cli", "automation"]
-published_at: "2026-03-20 12:00"
----
-
-
 
 OpenClawは強力なAIエージェントフレームワークですが、その真価はスラッシュコマンドにあります。この記事では、OpenClawの標準スラッシュコマンドを全て解説します。
 
@@ -316,7 +308,7 @@ Discordではインタラクティブなピッカーが表示されます。
 /compact [instructions]  # 指示付きで圧縮
 ```
 
-詳細は[/concepts/compaction](https://docs.openclaw.ai/concepts/compaction)を参照。
+詳細は[コンパクション](https://docs.openclaw.ai/concepts/compaction)を参照。
 
 ## TTS（テキスト読み上げ）
 
