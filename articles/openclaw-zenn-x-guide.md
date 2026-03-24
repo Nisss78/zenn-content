@@ -3,7 +3,7 @@ title: "OpenClawでZenn記事を書いてXに自動投稿する完全ガイド"
 emoji: "🤖"
 type: "tech"
 topics: ["openclaw", "zenn", "x", "自動化", "ai"]
-published: false
+published: true
 ---
 
 # OpenClawでZenn記事を書いてXに自動投稿する完全ガイド
